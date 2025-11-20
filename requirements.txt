@@ -1,0 +1,11 @@
+tensorflow>=2.10
+tensorflow-io
+numpy
+pillow
+matplotlib
+scikit-learn
+streamlit
+requests
+fastapi
+uvicorn
+python-multipart
