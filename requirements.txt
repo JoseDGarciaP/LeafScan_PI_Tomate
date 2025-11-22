@@ -1,11 +1,5 @@
-tensorflow>=2.10
-tensorflow-io
-numpy
-pillow
-matplotlib
-scikit-learn
-streamlit
-requests
-fastapi
-uvicorn
-python-multipart
+tensorflow>=2.15.0
+numpy>=1.24.0
+Pillow>=10.0.0
+matplotlib>=3.8.0
+streamlit>=1.29.0
