@@ -110,12 +110,12 @@ def main():
         st.stop()
     
     # Título
-    st.title("🍅 Detector de Bacteria en Hojas de Tomate")
+    st.title("🍅 LeafScan Pi: Detector de Salud de Cultivos de Tomate")
     st.markdown("### Sistema de diagnóstico con Inteligencia Artificial")
     
     # Sidebar con información
     with st.sidebar:
-        st.header("ℹ️ Información del Sistema")
+        st.header("Información del Sistema")
         
         st.markdown("**Modelo:** MobileNetV2")
         st.markdown("**Arquitectura:** Transfer Learning")
