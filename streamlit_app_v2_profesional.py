@@ -729,7 +729,7 @@ def main():
         <div style='text-align: center; padding: 1rem 0;'>
             <h1 class='main-title'>LeafScan Pi</h1>
             <p class='main-subtitle'>
-                Sistema profesional de diagnóstico inteligente para cultivos de tomate
+                Sistema de diagnóstico inteligente para cultivos de tomate
             </p>
         </div>
         """, unsafe_allow_html=True)
